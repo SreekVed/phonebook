@@ -10,5 +10,5 @@ List of Operations :
  4. Add an address to a person
  5. Search for address and phone number by name
  6. Remove a person from the phonebook
- 7. Search by keyword (returns a list sorted in alphabetical order)
+ 7. Search names/addresses by keyword (returns a list of matching people sorted in alphabetical order)
 
